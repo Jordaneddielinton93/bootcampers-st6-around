@@ -26,12 +26,12 @@
 
 1. Never push to main yourself, only after a code review
 2. if you pick a ticket/component to work on <b>let people know</b> and move it under your name on a work flow app.
-3. Do not work on a coponent if somone else is working on it to stop merge errors, if you need help ask 😊
+3. Do not work on a component if somone else is working on it to stop merge errors, if you need help ask 😊
 4. If you stop replying after a week and do not tell anybody, your ticket will be removed and placed on the backlog.
 4. People love to help and we are a team so ask for help.
 5. Be respectfull , if you have an issue bring it up
-6. if their is a bug bring it up in the slack channel/Tell the Team Leader
-7. sudo code Everything ,commments commments commments commments
+6. If their is a bug bring it up in the slack channel/Tell the Team Leader
+7. Sudo code Everything ,commments commments commments commments
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
