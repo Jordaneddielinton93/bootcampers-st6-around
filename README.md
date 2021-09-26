@@ -10,7 +10,7 @@
 </p>
 
 <h2>This Weeks Objectives</h2>
-<br>
+
 <h3>Asperations</h3>
 
 - Be able to pick a Team Leader
@@ -33,7 +33,7 @@
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
-<hr/>
+
 <hr/>
 <br>
 
