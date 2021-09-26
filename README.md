@@ -40,7 +40,7 @@ Rules are subject to change. <br>
 <h2 align="center">Time Table</h2>
 <hr/>
 
-<table>
+<table align="center">
 <h3>regular standups to keep things in track.</h3>
 <th>Sprint Plan</th>
 <tr>
