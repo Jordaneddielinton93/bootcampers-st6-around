@@ -41,7 +41,7 @@ Rules are subject to change. <br>
 <hr/>
 
 <table align="center">
-<h3>regular standups to keep things in track.</h3>
+<h3 align="center">regular standups to keep things in track.</h3>
 <th>Sprint Plan</th>
 <tr>
   <td>week1</td><td>Fundementals,Picking a Project, ground rules</td>
