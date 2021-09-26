@@ -1,5 +1,7 @@
 
-<img src="./images/Soc.png" width="100px">
+<div align="center">
+<img src="./images/Soc.png" width="100px" >
+</div>
 <h1 align="center">Bootcampers-st6-around</h1>
 
 <h2>Overview</h1>
