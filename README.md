@@ -19,7 +19,7 @@
 - Pick a name for the Team 
 
 <h2>Rules - not final</h2>
-<hr/>
+
 
 
 1. Never push to main yourself, only after a code review
