@@ -31,7 +31,7 @@
 4. People love to help and we are a team so ask for help.
 5. Be respectfull , if you have an issue bring it up
 6. If their is a bug bring it up in the slack channel/Tell the Team Leader
-7. Sudo code Everything ,commments commments commments commments
+7. Sudo code Everything ,comments comments comments comments
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
