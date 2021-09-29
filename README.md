@@ -32,6 +32,7 @@
 5. Be respectfull , if you have an issue bring it up
 6. If their is a bug bring it up in the slack channel/Tell the Team Leader
 7. Sudo code Everything ,comments comments comments comments
+8. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
