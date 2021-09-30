@@ -24,29 +24,17 @@
 
 
 
-<<<<<<< HEAD
 1. Never push to main yourself, only after a code review and <b>do not fix others code</b> tell them their error with a code review via github & then on slack < "important". Then ask them to fix it (we all make mistake's so do not become protective of your code).
 
 2. ^ People love to help and we are a team so ask for help. 
 3. Do not work on a coponent if somone else is working on it to stop merge errors, if you need help ask or pair-code😊
-=======
-1. Never push to main yourself, only after a code review
-2. if you pick a ticket/component to work on <b>let people know</b> and move it under your name on a work flow app.
-3. Do not work on a component if somone else is working on it to stop merge errors, if you need help ask 😊
->>>>>>> adeb4bbd411e98914d69fc73c8d796c2bb6c49df
 4. If you stop replying after a week and do not tell anybody, your ticket will be removed and placed on the backlog.
-4. if you pick a ticket/component to work on <b>let people know</b> and move it under your name on Jira.
-5. Be respectfull , if you have an issue bring it up
-<<<<<<< HEAD
-6. if their is a bug bring it up in the slack channel/Tell the Team Leader
-7. sudo code Everything ,commments commments commments commments
-8. You will be Credited with the work you do (it will show on your git commits) but you can also add your name to the component you did at the bottom of this ReadMe
-
-=======
-6. If their is a bug bring it up in the slack channel/Tell the Team Leader
-7. Sudo code Everything ,comments comments comments comments
-8. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
->>>>>>> adeb4bbd411e98914d69fc73c8d796c2bb6c49df
+5. if you pick a ticket/component to work on <b>let people know</b> and move it under your name on Jira.
+6. Be respectfull , if you have an issue bring it up
+7. If their is a bug bring it up in the slack channel/Tell the Team Leader
+8. Sudo code Everything ,comments comments comments comments
+9. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
+10. You will be Credited with the work you do (it will show on your git commits) but you can also add your name to the component you did at the bottom of this ReadMe
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
