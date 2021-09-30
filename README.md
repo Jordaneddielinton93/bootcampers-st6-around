@@ -24,7 +24,7 @@
 
 
 
-<<<<<<< HEAD
+
 1. Never push to main yourself, only after a code review and <b>do not fix others code</b> tell them their error with a code review via github & then on slack < "important". Then ask them to fix it (we all make mistake's so do not become protective of your code).
 
 2. ^ People love to help and we are a team so ask for help. 
@@ -46,7 +46,6 @@
 6. If their is a bug bring it up in the slack channel/Tell the Team Leader
 7. Sudo code Everything ,comments comments comments comments
 8. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
->>>>>>> adeb4bbd411e98914d69fc73c8d796c2bb6c49df
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
