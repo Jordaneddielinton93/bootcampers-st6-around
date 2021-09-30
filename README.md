@@ -24,6 +24,7 @@
 
 
 
+
 1. Never push to main yourself, only after a code review and <b>do not fix others code</b> tell them their error with a code review via github & then on slack < "important". Then ask them to fix it (we all make mistake's so do not become protective of your code).
 
 2. ^ People love to help and we are a team so ask for help. 
@@ -35,6 +36,7 @@
 8. Sudo code Everything ,comments comments comments comments
 9. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
 10. You will be Credited with the work you do (it will show on your git commits) but you can also add your name to the component you did at the bottom of this ReadMe
+
 
 Rules are subject to change. <br>
 <h3> But remember have fun we got this.</h3>
