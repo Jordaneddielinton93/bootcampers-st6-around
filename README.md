@@ -34,7 +34,7 @@
 6. Be respectfull , if you have an issue bring it up
 7. If their is a bug bring it up in the slack channel/Tell the Team Leader
 8. Sudo code Everything ,comments comments comments comments
-9. Leader has to set up a google form once a week to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
+9. Leader has to set up a google form once a fortnite to vote for a new leader (if more then half of active users agrees they revote) ??<< Fair ?
 10. You will be Credited with the work you do (it will show on your git commits) but you can also add your name to the component you did at the bottom of this ReadMe
 
 
