@@ -13,14 +13,20 @@
 
 <h2>This Weeks Objectives</h2>
 
-<h3>Asperations</h3>
+<Table>
+  <th>Week Numb Repos</th>
+  <tr>
+    <td>Week_1 : 25/sept/2021</td> <td> https://github.com/Jordaneddielinton93/Week-1-bootcamp-st6-around </td>
+  </tr>
+  <tr>
+    <td>Week_2 : 02/Oct/2021</td> <td> __ </td>
+  </tr>
+  
+<Table>
 
-- Be able to pick a Team Leader
-- Set ground rules for everyone
-- Pick a project to work on
-- Pick a name for the Team 
+<hr>
 
-<h2>Rules - not final</h2>
+<h2>Rules :</h2>
 
 
 
