@@ -11,7 +11,7 @@
   I cant wait to hear everyones idea's
 </p>
 
-<h2>This Weeks Objectives</h2>
+<h2>Weekly Repos</h2>
 
 <Table>
   <th>Week Numb Repos</th>
